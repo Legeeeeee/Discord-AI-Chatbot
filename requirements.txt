@@ -1,11 +1,11 @@
 aiohttp
-discord.py
+discord.py==2.3.2
 discord.py[voice]
 gtts
 langdetect
 python-dotenv
 pyttsx3
 PyYAML
-Requests
+requests
 openai
-duckduckgo-search
+duckduckgo-search==3.8.4
